@@ -39,18 +39,18 @@ git clone https://github.com/suchana-das014/portfolio.git
 cd portfolio
 
 # Open index.html in your browser
-```
 🧩 Folder Structure
-bash
-Copy code
 portfolio/
 ├── index.html       # Main HTML file
 ├── style.css        # Custom styles
 ├── img/             # Profile and project images
 ├── resume.pdf       # Resume download
 └── README.md        # Documentation
----
-📬 Contact
+```
+
+##📬 Contact
+Let’s connect! Feel free to reach out for collaboration, ideas, or just to say hi 👋
+
 Name: Suchana Rani Das
 Email: suchana@gmail.com
 Location: Sylhet, Bangladesh

@@ -1,4 +1,4 @@
-💻 Suchana Portfolio
+💻 My Portfolio
 
 This is my **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
 It highlights my skills, projects, resume, and contact information in a clean, responsive layout.
@@ -6,8 +6,7 @@ It highlights my skills, projects, resume, and contact information in a clean, r
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://suchana-das014.github.io/)  
-
+🔗 [View Portfolio](https://suchana-das014.github.io/MyPortfolioo/)  
 ---
 
 ## 📌 Features
@@ -28,8 +27,28 @@ It highlights my skills, projects, resume, and contact information in a clean, r
 
 ---
 
+## ⚙️ Installation & Setup
+
+If you want to run or customize this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/suchana-das014/portfolio.git
+
+# Navigate into the project folder
+cd portfolio
+
+# Open index.html in your browser
+🧩 Folder Structure
+bash
+Copy code
+portfolio/
+├── index.html       # Main HTML file
+├── style.css        # Custom styles
+├── img/             # Profile and project images
+├── resume.pdf       # Resume download
+└── README.md        # Documentation
 📬 Contact
 Name: Suchana Rani Das
 Email: suchana@gmail.com
 Location: Sylhet, Bangladesh
-

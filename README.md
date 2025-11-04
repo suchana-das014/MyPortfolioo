@@ -49,8 +49,11 @@ portfolio/
 ```
 
 ##📬 Contact
+---
 Let’s connect! Feel free to reach out for collaboration, ideas, or just to say hi 👋
-
+---
 Name: Suchana Rani Das
+
 Email: suchana@gmail.com
+
 Location: Sylhet, Bangladesh

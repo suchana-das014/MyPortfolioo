@@ -48,6 +48,7 @@ portfolio/
 ├── img/             # Profile and project images
 ├── resume.pdf       # Resume download
 └── README.md        # Documentation
+---
 📬 Contact
 Name: Suchana Rani Das
 Email: suchana@gmail.com

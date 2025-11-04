@@ -39,6 +39,7 @@ git clone https://github.com/suchana-das014/portfolio.git
 cd portfolio
 
 # Open index.html in your browser
+```
 🧩 Folder Structure
 bash
 Copy code
